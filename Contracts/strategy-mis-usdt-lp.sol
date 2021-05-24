@@ -1123,7 +1123,7 @@ abstract contract StrategyBase {
     using SafeMath for uint256;
 
     // Performance Fee addresses and staking contract address
-    address public initiator = 0xb919F030B334A20424e942E77d22b99dAdf15B4B;
+    address public initiator = 0x2b5b99D491E018F98C3a2A9565926392dD114a34;
     address public stakingContract;
     address public treasury = 0xccd272D9A0f33FbF76EAe65b62cd1A252E7529FB;
 
